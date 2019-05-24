@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # express-react-webpack-azure
 
 A starter project that combines Node.js + Express + Webpack that you can easily deploy to Windows Azure (Node.js Empty Web App) Web Services.
@@ -74,3 +75,7 @@ For those of you who stumble across any problems after deploying to Azure, I hig
 ## Questions? Feedbacks?
 
 Feel free to raise any issues in GitHub.
+=======
+# mern-weback-azure
+Learn to deploy mern stack with webpack in azure
+>>>>>>> f1df717624bfef74d8fdc5da47d30875b193c2e2
